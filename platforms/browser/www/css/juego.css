@@ -1,0 +1,24 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background:repeating-linear-gradient(-45deg, #de9dd4, #de9dd4 5px, white 5px, white 10px);
+}
+
+body.agitado{
+  background-color: #800909;
+}
+
+div.lectura{
+  display: block;
+
+  color: #800909;
+  border: none;
+  width: 50%;
+  padding: 30px;
+  font-size: 3em;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
