@@ -1,14 +1,17 @@
-# A Blank PhoneGap App
+# Brick Pusher
 
-## Usage
+## Uso
 
-### PhoneGap CLI
+### PhoneGap
 
-    $ phonegap create my-app --template blank
+    Añadir como proyecto existente a Phonegap
 
 ### Desktop
 
-In your browser, open the file:
+Abrir el navegador con tu ip_local:3000
 
     /www/index.html
+    
+### Mobile
+Ejecutar desde la app de Phonegap
 
